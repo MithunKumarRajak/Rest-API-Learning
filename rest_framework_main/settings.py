@@ -44,6 +44,7 @@ EXTERNAL_APPS = [
     'rest_framework',
     'students',
     'api',
+    'employee',
 ]
 
 
